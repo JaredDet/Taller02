@@ -98,7 +98,7 @@ public class Taller02 {
         palabra = palabra.toLowerCase();
         String spechar = "áéíóú";
         String chara = "aeiou";
-        String signos = "[$&+,:;=?@#|/\\'<>.-^*()%!]";
+        String signos = "[$&+,:;=¿?@#|/\\'<>.-^*()%!]";
 
         for (int i = 0; i < spechar.length(); i++) {
 
